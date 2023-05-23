@@ -5,6 +5,7 @@ Description:
 NoteApp is a note-taking application inspired by the concept of sticky notes. Built using the clean architecture approach and Jetpack Compose, it offers a modern and intuitive user interface for managing your notes.
 [![Demo Video](https://vimeo.com/manage/videos/829333717)]
 
+[Running Devices - CleanArchitectureNoteApp 2023-05-23 13-25-21.zip](https://github.com/OcnaChann/NoteApp/files/11541525/Running.Devices.-.CleanArchitectureNoteApp.2023-05-23.13-25-21.zip)
 Features:
 - Create and store notes with a title, content, and different colors.
 - Intuitive UI resembling sticky notes for a familiar and delightful user experience.
