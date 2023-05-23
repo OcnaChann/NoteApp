@@ -3,7 +3,7 @@ Project Title: NoteApp - Clean Architecture Note App
 
 Description:
 NoteApp is a note-taking application inspired by the concept of sticky notes. Built using the clean architecture approach and Jetpack Compose, it offers a modern and intuitive user interface for managing your notes.
-[![Demo Video](https://vimeo.com/manage/videos/829333717)
+[![Demo Video](https://vimeo.com/manage/videos/829333717)]
 
 Features:
 - Create and store notes with a title, content, and different colors.
